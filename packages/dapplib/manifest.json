@@ -1,0 +1,16 @@
+{
+    "name": "SOLGO",
+    "blocks": {
+        "/blockchain/matic": true,
+        "/blockchain/matic/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_access": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "SOL Swap",
+        "/category/asset_value_tracking/token/symbol": "SOLS",
+        "/category/asset_value_tracking/token/decimals": "18",
+        "/category/asset_value_tracking/token/supply": "42000000000"
+    }
+}
